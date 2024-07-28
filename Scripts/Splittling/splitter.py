@@ -113,5 +113,5 @@ def process_files_in_directory(main_folder):
                     print(f"Processed {pdf_path}: Cities mentioned in the PDF:", cities)
 
 # Directory containing the PDFs to be split
-main_folder = r'C:\Users\Dell\Desktop\A_Project\Flooding\OpenCelliD data\Flooding\telecome_info\PTA-dataset'
+main_folder = r'C:\Users\Dell\Desktop\A_Project\Flooding\OpenCelliD data\Flooding\Pakistan_telecom\PTA-dataset'
 process_files_in_directory(main_folder)
